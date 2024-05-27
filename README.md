@@ -1,3 +1,16 @@
+![todo](https://socialify.git.ci/harsh3dev/todo/image?language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
+
+# Company Task Management
+
+It is a task Management system for companies to assign tasks to their employees and update and delete tasks
+
+## Demo
+
+
+
+
+
+
 ## To Run This Project
 
 ### Prerequisites
